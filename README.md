@@ -1,10 +1,10 @@
-# 🚀 Hiren Prajapati  
+# Hiren Prajapati  
 
-## 🧠 About Me  
+## About Me  
 
 I’m a Computer Engineering student focused on **Artificial Intelligence, Machine Learning, and Generative AI**.
 
-My core direction is building intelligent systems — not just training models, but designing complete AI pipelines from data to deployment.
+My core direction is building intelligent systems not just training models, but designing complete AI pipelines from data to deployment.
 
 I have strong foundations in **Machine Learning & Deep Learning**, and I’m currently diving deep into:
 
@@ -14,7 +14,7 @@ I have strong foundations in **Machine Learning & Deep Learning**, and I’m cur
 - 📦 MLOps & model lifecycle management  
 - ☁️ Azure for cloud-based AI deployment  
 
-While my main focus is AI, I also have experience in web and Android development — which helps me build full-stack AI-powered applications when needed.
+While my main focus is AI, I also have experience in web and Android development which helps me build full-stack AI-powered applications when needed.
 
 ---
 
@@ -24,34 +24,6 @@ While my main focus is AI, I also have experience in web and Android development
 - Designing scalable ML systems  
 - Learning production-level MLOps  
 - Improving model deployment & optimization  
-
----
-
-## 🧩 Core Skills
-
-### 🤖 Machine Learning & Deep Learning
-- CNNs, Transfer Learning  
-- Feature Engineering  
-- Model Evaluation & Optimization  
-
-### 🧠 Generative AI
-- LLM Workflows  
-- LangChain  
-- LangGraph  
-- Prompt Engineering  
-- RAG Architectures
-  
-### ⚙️ Backend for ML
-- FastAPI  
-- REST APIs for model serving  
-
-### ☁️ Cloud & DevOps
-- Azure  
-- MLOps fundamentals  
-
-### 📱 Additional Skills
-- Web Development (Next.js, JavaScript, TypeScript)  
-- Android App Development  
 
 ---
 
@@ -96,3 +68,10 @@ While my main focus is AI, I also have experience in web and Android development
 
 
 [![](https://visitcount.itsvg.in/api?id=Hiren-Prajapati-2386&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+## 💬 My Direction
+
+"Generative AI is powerful. But power without architecture is chaos.  
+My goal is to design structured, scalable GenAI systems that actually work in production."
